@@ -1,0 +1,161 @@
+body {
+  margin: 0;
+  font-family: 'Cormorant Garamond', serif;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Lora', sans-serif;
+  color: white;
+  padding:50px 30px 0 30px;
+  margin: 0 auto 0 auto;
+  border: none;
+  font-size: 40px;
+  font-weight: normal;
+
+}
+
+h2 {
+
+}
+
+h3 {
+  color: #ff7171;
+  font-weight: normal;
+  font-size: 20px;
+}
+
+.top-menu {
+  color: white;
+  display: inline-block;
+  position: relative;
+  left: 33rem;
+  top: -9rem;
+  margin: 0 10px;
+  text-decoration: none;
+}
+
+.top-image {
+  position: absolute;
+  left: 3rem;
+  bottom: 28%;
+  width: 300px;
+  height: 200px;
+}
+
+.container-top {
+  background-image: url('https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif');
+  height: 400px;
+
+
+}
+/***************************middle container *****************/
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #0e49b5;
+  border-width: 6px;
+  width: 8%;
+}
+.middle-image {
+  margin-top: 18px;
+}
+
+.html {
+  text-align: justify;
+  width: 18rem;
+  height: 12rem;
+  display: inline-block;
+  margin-right: 30rem;
+  margin-top: 4rem;
+  line-height: 1.20;
+  border: solid 1px;
+  border-color: #ff7171;
+  box-shadow: -8px 8px 20px #ff7171;
+
+
+}
+
+.css {
+  text-align: justify;
+  width: 18rem;
+  height: 12rem;
+  display: inline-block;
+  line-height: 1.20;
+  border: solid 1px;
+  border-color: #ff7171;
+  box-shadow: 8px 8px 17px #ff7171;
+
+}
+.in-text {
+  padding: 0 8px 0 8px;
+}
+
+.all {
+  background-color: #ff7171;
+  margin-top: 0;
+  padding: 10px 0 10px 0;
+  text-align: center;
+  color: white;
+
+
+}
+.container-bottom {
+  width: 47%;
+  margin: 0 auto;
+}
+.bottom-image {
+  width: 5rem;
+  height: 5rem;
+  float: right;
+
+}
+
+.bottom-image1 {
+  width: 5rem;
+  height: 5rem;
+  float: left;
+}
+.des {
+  margin-bottom: 5rem;
+  line-height: 2;
+  text-align: right;
+  padding-left: 20px;
+}
+
+.des1 {
+  line-height: 2;
+  text-align: left;
+  padding-right: 20px;
+}
+/***********************Footer*****************/
+.footer {
+  background-color: #153e90;
+  height: 170px;
+  padding-bottom: 10px;
+}
+
+.footer-link {
+  color: white;
+  padding: 0 10px 0 10px;
+  text-decoration: none;
+
+}
+.copywrite {
+position: relative;
+bottom: 7px;
+}
+
+.Contact {
+  padding-top: 30px;
+
+}
+a {
+  padding: 0 3px;
+}
+a:hover {
+  background-color: #ff7171;
+  box-shadow: 0 0 37px #ff7171;
+  border-radius: 10%;
+  transition: 1s;
+}
